@@ -1186,7 +1186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1007175226}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.89, y: 3.6, z: -1.1792178}
+  m_LocalPosition: {x: 9.45, y: 3.6, z: -1.1792178}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1585,7 +1585,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ade110b6127497409c0d9a4401a33be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravity: f6ffffff0a000000
+  gravity: feffffff02000000
   autoPlay: 0
 --- !u!212 &1471019375
 SpriteRenderer:
@@ -2052,7 +2052,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1640282393}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.89, y: -3.7, z: -1.1792178}
+  m_LocalPosition: {x: 7.96, y: -3.7, z: -1.1792178}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2088,7 +2088,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minSpawnDelay: 5
-  maxSpawnDelay: 15
+  maxSpawnDelay: 10
   obstacle: {fileID: 8028603269898413726, guid: a7a9ba0dbb7bc0b4a9451ea873411080,
     type: 3}
 --- !u!4 &2096770551
@@ -2099,7 +2099,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2096770549}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.89, y: -0.03, z: -1.1792178}
+  m_LocalPosition: {x: 8.5, y: -0.03, z: -1.1792178}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
